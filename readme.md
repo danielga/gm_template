@@ -4,7 +4,7 @@
 
 ## Compiling
 
-The only supported compilation platform for this project on Windows is **Visual Studio 2017** on **release** mode {**TODO**: REMOVE THIS PART IF NOT APPLICABLE}. However, it's possible it'll work with *Visual Studio 2015* and *Visual Studio 2019* because of the unified runtime.
+The only supported compilation platform for this project on Windows is **Visual Studio 2017** on **release** mode {**TODO**: REMOVE THIS PART IF NOT APPLICABLE}. However, it's possible it'll work with *Visual Studio 2015*, *Visual Studio 2019* and *Visual Studio 2022* because of the unified runtime.
 
 On Linux, everything should work fine as is, on **release** mode {**TODO**: REMOVE THIS PART IF NOT APPLICABLE}.
 
